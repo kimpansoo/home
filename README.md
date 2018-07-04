@@ -2,7 +2,8 @@
 반갑습니다.
 이곳에서는 라즈베리파이 제로 w로 음성제어 스위치를 만들어볼까 합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[라즈베리파이 제로 w와 SNOWBOY 참고] (https://app.box.com/notes/299018715900)
+
 
 ### Markdown
 
