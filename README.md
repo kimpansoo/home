@@ -2,9 +2,9 @@
 반갑습니다.
 이곳에서는 라즈베리파이 제로 W와 음성 핫디텍션 [SNOWBOY](https://snowboy.kitt.ai/)로 음성제어 조명스위치를 만들어 보았습니다.
 
-*[라즈베리파이 제로 w와 SNOWBOY 참고](https://app.box.com/notes/299018715900) 
+>[라즈베리파이 제로 w와 SNOWBOY 참고](https://app.box.com/notes/299018715900) 
 
-*[동영상](https://drive.google.com/open?id=1zZ5AiDI05GIpqeC_7p4Z9xxkVcEuKtmj)
+>[동영상](https://drive.google.com/open?id=1zZ5AiDI05GIpqeC_7p4Z9xxkVcEuKtmj)
 
 ### Markdown
 
