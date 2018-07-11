@@ -12,13 +12,13 @@ SSH 로그인 설정을 앱에 입력하십시오.
 YouTube 비디오를 Raspberry Pi로 전송하려면 YouTube 앱과 비디오를 열고 "공유"→ Raspicast를 선택하십시오.
 비디오가 PiGlass에서 재생되기 시작합니다!
 >코드 입력
+~~~
 sudo apt-get install mpv
 sudo pip3 install youtube-dl
 git clone https://github.com/mps-youtube/mps-youtube.git
 cd mps-youtube
 sudo python3 setup.py install
-
-sudo python3 setup . 파이 설치
+~~~
 mpsyt를 실행 한 다음 set player mpv를 입력하십시오.
 축하합니다. 이제 YouTube 오디오를 스팀 할 수 있습니다!
 예를 들어, / sia에 입력 
