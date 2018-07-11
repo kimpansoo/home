@@ -6,34 +6,20 @@
 
 >[동영상](https://drive.google.com/open?id=1zZ5AiDI05GIpqeC_7p4Z9xxkVcEuKtmj)
 
-### Markdown
+### 2.YouTube 스트리밍
+>휴대 전화에 raspicast [앱을 다운로드하십시오](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+SSH 로그인 설정을 앱에 입력하십시오.
+YouTube 비디오를 Raspberry Pi로 전송하려면 YouTube 앱과 비디오를 열고 "공유"→ Raspicast를 선택하십시오.
+비디오가 PiGlass에서 재생되기 시작합니다!
+>코드 입력
+sudo apt-get install mpv
+sudo pip3 install youtube-dl
+git clone https://github.com/mps-youtube/mps-youtube.git
+cd mps-youtube
+sudo python3 setup.py install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimpansoo/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+sudo python3 setup . 파이 설치
+mpsyt를 실행 한 다음 set player mpv를 입력하십시오.
+축하합니다. 이제 YouTube 오디오를 스팀 할 수 있습니다!
+예를 들어, / sia에 입력 
+한 다음 Enter 키를 누르십시오. 노래 목록이 나타나면 입력하려는 노래의 번호를 입력하고 입력을 시작하십시오.
