@@ -20,8 +20,8 @@ cd mps-youtube
 sudo python3 setup.py install
 ~~~
 mpsyt를 실행 한 다음 set player mpv를 입력하십시오.
-축하합니다. 
-이제 YouTube 오디오를 스팀 할 수 있습니다!  
+축하합니다.   
+#이제 YouTube 오디오를 스팀 할 수 있습니다!  
 예를 들어, / sia에 입력  
 한 다음 Enter 키를 누르십시오. 
-노래 목록이 나타나면 입력하려는 노래의 번호를 입력하고 입력을 시작하십시오.  
+#노래 목록이 나타나면 입력하려는 노래의 번호를 입력하고 입력을 시작하십시오.  
